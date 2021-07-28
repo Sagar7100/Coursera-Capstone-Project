@@ -1,0 +1,17 @@
+For this project we need the Restaurant Data ofAhmedabad city :
+Ahmedabad Resturants data that contains list Locality, Resturant name,Rating along with their latitude and longitude.
+
+
+Data source : Zomato kaggel dataset of India : "https://www.kaggle.com/rabhar/zomato-restaurants-in-india"
+
+
+Description : This data set contains the required information. And we will use this data set to explore various locality of Ahmedabad city.
+
+
+Nearby places in each locality of Ahmedabad city.
+
+
+Data source : Fousquare API: "https://developer.foursquare.com/"
+
+
+Description : By using this api we will get all the venues in each neighborhood.

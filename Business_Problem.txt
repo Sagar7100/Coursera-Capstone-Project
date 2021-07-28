@@ -1,0 +1,24 @@
+As given in our Project is based on Neighborhood dataset so here i am using Ahmedabad city Restaurant data.
+
+There are many restaurants in Ahmedabad City, each belonging to different categories like Chinese, North Indian, Italian, French etc.
+
+So as part of this project , we will list and visualise all major parts of Ahmedabad city
+
+Questions that can be asked:
+ 
+What places are have best restaurant in Ahmedabad ?
+
+Which Restaurant have most outlets in Ahmedabad city ?
+
+Type of restaurant in ahmedabad ?
+
+Top Restaurant in Perticular type of Restaurant?
+
+Which place are suitable for edible person in Ahmedabad city? 
+
+What are the best chinese, North Indian restaurantin Perticular area?
+
+
+How many Restaurant accepting Digital Payment?
+
+And also by using Foursquare API we will get the all Venues in each Neighborhood
